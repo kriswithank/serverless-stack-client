@@ -1,3 +1,8 @@
+TODOS:
+
+Handle if user navigates away from signup page as described here:
+https://serverless-stack.com/chapters/signup-with-aws-cognito.html
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
