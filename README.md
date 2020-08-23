@@ -1,5 +1,6 @@
 TODOS:
 
+
 Handle if user navigates away from signup page as described here:
 https://serverless-stack.com/chapters/signup-with-aws-cognito.html
 
